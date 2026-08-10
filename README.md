@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rku-21/DSA/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/rku-21/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/rku-21/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/rku-21/DSA/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rku-21/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2501-longest-square-streak-in-an-array](https://github.com/rku-21/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rku-21/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rku-21/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rku-21/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rku-21/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/rku-21/DSA/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rku-21/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/rku-21/DSA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rku-21/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -456,16 +458,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rku-21/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rku-21/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rku-21/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/rku-21/DSA/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rku-21/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rku-21/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/rku-21/DSA/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rku-21/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rku-21/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/rku-21/DSA/tree/master/1510-stone-game-iv) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -474,4 +479,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rku-21/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/rku-21/DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/rku-21/DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
