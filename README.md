@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/rku-21/DSA/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rku-21/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/rku-21/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rku-21/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/rku-21/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/rku-21/DSA/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rku-21/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0044-wildcard-matching](https://github.com/rku-21/DSA/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/rku-21/DSA/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/rku-21/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0316-remove-duplicate-letters](https://github.com/rku-21/DSA/tree/master/0316-remove-duplicate-letters) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/rku-21/DSA/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/rku-21/DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/rku-21/DSA/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/rku-21/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rku-21/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/rku-21/DSA/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/rku-21/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rku-21/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/rku-21/DSA/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/rku-21/DSA/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/rku-21/DSA/tree/master/0486-predict-the-winner) |
 ## Tree
