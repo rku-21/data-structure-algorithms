@@ -20,9 +20,58 @@ public:
     bool isInterleave(string s1, string s2, string s3) {
         n=s1.size();
         m=s2.size();
-        memset(t,-1,sizeof(t));
+        // memset(t,-1,sizeof(t));
          p=s3.size();
-        return solve(0,0,0, s1,s2,s3);
+        // return solve(0,0,0, s1,s2,s3);
+
+        // we actually need i and j as at any point k=i+j 
+
+        vector<vector<int>>dp(101,vector<int>(101,false));
+
+        for(int i=0; i<=n; i++){
+            for(int j=0; j<=m; j++){
+                if(i+j==p) dp[i][j]=false;
+            }
+        }
+
+        if(n+m==p){
+            dp[n][m]=true;
+        }
+
+        for(int i=n; i>=0; i--){
+            for(int j=m; j>=0; j--){
+                if(i==n && j==m) continue;
+                bool ans=false;
+                if(i<n && i+j<p  && s1[i]==s3[i+j]){
+                    ans= ans || dp[i+1][j];
+                }
+
+                if(i+j<p && j<m && s2[j]==s3[i+j]){
+                    ans= ans || dp[i][j+1];
+                }
+
+                dp[i][j]=ans;
+            }
+        }
+
+        return dp[0][0];
+
+       
+        
+
+
+        
+        
+
+       
+
+        return dp[0][0];
+
+
+
+
+
+
         
     }
 };
