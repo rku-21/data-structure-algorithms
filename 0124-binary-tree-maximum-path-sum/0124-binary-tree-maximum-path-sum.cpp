@@ -11,38 +11,28 @@
  */
 class Solution {
 public:
-    int maxiSum=INT_MIN;
-    int solve(TreeNode* root){
-          if(root==nullptr) return INT_MIN;
+   int inf=INT_MIN;
+   pair<int,int> solve(TreeNode* root){
+       if(root==nullptr) return {inf,0};
 
-          int left=solve(root->left);
-          int right=solve(root->right);
+       auto l = solve(root->left);
+       auto r=solve(root->right);
 
-          if(left == INT_MIN && right == INT_MIN){
-              maxiSum=max({maxiSum, root->val});
-              return root->val;
-          }
-           if(left == INT_MIN){
-              maxiSum=max({maxiSum, right, right+root->val,root->val});
-              return max(root->val, right+root->val);
-          }
-           if( right == INT_MIN){
-            maxiSum=max({maxiSum , left , left+root->val, root->val});
-            return max(root->val, left+root->val);
-          }
-          else {
-              maxiSum=max({maxiSum, left, right , left+right+root->val, root->val, left+root->val, right+root->val});
-              return max({root->val, left+root->val, right+root->val});
-          }
-          
+       int leftbest=l.first;
+       int rightbest=r.first;
+       int left=l.second;
+       int right=r.second;
+       pair<int,int>ans;
+       ans.first=max({leftbest,rightbest, left+root->val , right+root->val, root->val,left+right+root->val});
+       ans.second=max({left+root->val, right+root->val, root->val});
+
+       return ans;
 
 
-         
-          return max(left,right)+root->val;
-    }
+   }
     int maxPathSum(TreeNode* root) {
-        solve(root);
-        return maxiSum;
+
+        return solve(root).first;
         
     }
 };
