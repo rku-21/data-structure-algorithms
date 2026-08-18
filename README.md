@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rku-21/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rku-21/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rku-21/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/rku-21/DSA/tree/master/1563-stone-game-v) |
 | [1720-decode-xored-array](https://github.com/rku-21/DSA/tree/master/1720-decode-xored-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rku-21/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/rku-21/DSA/tree/master/2029-stone-game-ix) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rku-21/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rku-21/DSA/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rku-21/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/rku-21/DSA/tree/master/1563-stone-game-v) |
 | [2501-longest-square-streak-in-an-array](https://github.com/rku-21/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rku-21/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rku-21/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rku-21/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rku-21/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rku-21/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/rku-21/DSA/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rku-21/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/rku-21/DSA/tree/master/2029-stone-game-ix) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/rku-21/DSA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rku-21/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rku-21/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rku-21/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/rku-21/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/rku-21/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
