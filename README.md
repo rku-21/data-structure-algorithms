@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rku-21/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1027-longest-arithmetic-subsequence](https://github.com/rku-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1331-rank-transform-of-an-array](https://github.com/rku-21/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/rku-21/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2363-merge-similar-items](https://github.com/rku-21/DSA/tree/master/2363-merge-similar-items) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rku-21/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2501-longest-square-streak-in-an-array](https://github.com/rku-21/DSA/tree/master/2501-longest-square-streak-in-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/rku-21/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rku-21/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/rku-21/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/rku-21/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/rku-21/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/rku-21/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rku-21/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/rku-21/DSA/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/rku-21/DSA/tree/master/0187-repeated-dna-sequences) |
+| [1386-cinema-seat-allocation](https://github.com/rku-21/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1720-decode-xored-array](https://github.com/rku-21/DSA/tree/master/1720-decode-xored-array) |
 | [2401-longest-nice-subarray](https://github.com/rku-21/DSA/tree/master/2401-longest-nice-subarray) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rku-21/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rku-21/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/rku-21/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rku-21/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/rku-21/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/rku-21/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2029-stone-game-ix](https://github.com/rku-21/DSA/tree/master/2029-stone-game-ix) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/rku-21/DSA/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
