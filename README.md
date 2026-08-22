@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rku-21/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/rku-21/DSA/tree/master/0763-partition-labels) |
 | [0819-most-common-word](https://github.com/rku-21/DSA/tree/master/0819-most-common-word) |
+| [0957-prison-cells-after-n-days](https://github.com/rku-21/DSA/tree/master/0957-prison-cells-after-n-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/rku-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1331-rank-transform-of-an-array](https://github.com/rku-21/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/rku-21/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rku-21/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rku-21/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0937-reorder-data-in-log-files](https://github.com/rku-21/DSA/tree/master/0937-reorder-data-in-log-files) |
+| [0957-prison-cells-after-n-days](https://github.com/rku-21/DSA/tree/master/0957-prison-cells-after-n-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/rku-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1140-stone-game-ii](https://github.com/rku-21/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/rku-21/DSA/tree/master/1260-shift-2d-grid) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/rku-21/DSA/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/rku-21/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0957-prison-cells-after-n-days](https://github.com/rku-21/DSA/tree/master/0957-prison-cells-after-n-days) |
 | [1386-cinema-seat-allocation](https://github.com/rku-21/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1720-decode-xored-array](https://github.com/rku-21/DSA/tree/master/1720-decode-xored-array) |
 | [2401-longest-nice-subarray](https://github.com/rku-21/DSA/tree/master/2401-longest-nice-subarray) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/rku-21/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rku-21/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/rku-21/DSA/tree/master/0877-stone-game) |
+| [0957-prison-cells-after-n-days](https://github.com/rku-21/DSA/tree/master/0957-prison-cells-after-n-days) |
 | [1041-robot-bounded-in-circle](https://github.com/rku-21/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1140-stone-game-ii](https://github.com/rku-21/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rku-21/DSA/tree/master/1406-stone-game-iii) |
@@ -562,4 +566,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rku-21/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0957-prison-cells-after-n-days](https://github.com/rku-21/DSA/tree/master/0957-prison-cells-after-n-days) |
 <!---LeetCode Topics End-->
