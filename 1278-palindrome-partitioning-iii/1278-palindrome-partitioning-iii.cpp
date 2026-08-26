@@ -2,7 +2,9 @@ class Solution {
 public:
 int n;
     int dp[101][101];
+    unordered_map<string,int>palinMp;
     int palin(auto& t){
+        if(palinMp.count(t)) return palinMp[t];
         int i=0;
         int j=t.size()-1;
         int cnt=0;
@@ -21,6 +23,7 @@ int n;
         for(int idx=i; idx<n; idx++){
             string temp=s.substr(i, idx-i+1);
             int x=palin(temp);
+            palinMp[temp]=x;
             ans=min(ans, x+solve(idx+1, s, k-1));
         }
 
