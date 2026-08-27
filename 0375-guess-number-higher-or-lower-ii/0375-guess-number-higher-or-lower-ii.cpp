@@ -1,3 +1,5 @@
+dp[l][r] = the minimum amount of money required to guarantee a win when the hidden number is known to be somewhere in the range [l, r].
+
 class Solution {
 public:
     int n;
