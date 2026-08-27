@@ -23,9 +23,33 @@ public:
     }
     int getMoneyAmount(int n) {
             n=n;
-            memset(dp,-1,sizeof(dp));
+            memset(dp,0,sizeof(dp));
 
-            return solve(1,n);
+            // return solve(1,n);
+            for(int l=n; l>=1; l--){
+                for(int r=1; r<=n; r++){
+
+                    if(l>=r) continue;
+                    int ans=INT_MAX;
+
+                    for(int x=l; x<=r; x++){
+                        int cost=x+max(dp[l][x-1] , dp[x+1][r]);
+                        ans=min(ans,cost);
+                    }
+                    dp[l][r]=ans;
+
+
+
+
+
+                   
+                }
+            }
+
+            return dp[1][n];
+
+          
+
        
     }
 };
