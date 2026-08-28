@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/rku-21/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rku-21/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rku-21/DSA/tree/master/0162-find-peak-element) |
+| [0174-dungeon-game](https://github.com/rku-21/DSA/tree/master/0174-dungeon-game) |
 | [0219-contains-duplicate-ii](https://github.com/rku-21/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/rku-21/DSA/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/rku-21/DSA/tree/master/0414-third-maximum-number) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0174-dungeon-game](https://github.com/rku-21/DSA/tree/master/0174-dungeon-game) |
 | [1260-shift-2d-grid](https://github.com/rku-21/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/rku-21/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rku-21/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rku-21/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rku-21/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/rku-21/DSA/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/rku-21/DSA/tree/master/0174-dungeon-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/rku-21/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0472-concatenated-words](https://github.com/rku-21/DSA/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/rku-21/DSA/tree/master/0486-predict-the-winner) |
