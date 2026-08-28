@@ -51,8 +51,77 @@ public:
         for(int i=0; i<n; i++) freq[s[i]-'a']++;
         
         string temp="";
-        solve(temp, 0, target ,freq, false);
-        return ans;
+        // solve(temp, 0, target ,freq, false);
+        // return ans;
+
+        for(int i=0; i<n; i++){
+
+            int idx=target[i]-'a';
+
+            if(freq[idx]){
+                 ans.push_back(idx+'a');
+                 freq[idx]--;
+                 continue;
+            }
+            else {
+                 
+                 for(int x=idx+1; x<26; x++){
+
+                     if(freq[x]) {
+                         ans.push_back(x+'a');
+                         freq[x]--;
+
+                         for(int i=0; i<26; i++){
+                             ans.append(freq[i], i+'a');
+                         }
+
+                         return ans;
+
+
+                     } 
+                }
+
+            }
+
+             break; // need breakTrack 
+
+
+
+        }
+
+        for(int i=ans.size()-1; i>=0; i--) {
+              int idx=ans[i]-'a';
+
+              freq[idx]++;
+              ans.pop_back();
+
+            for(int x=idx+1; x<26; x++){
+
+                     if(freq[x]) {
+                         ans.push_back(x+'a');
+                         freq[x]--;
+
+                         for(int i=0; i<26; i++){
+                             ans.append(freq[i], i+'a');
+                         }
+
+                         return ans;
+
+
+                     }
+            } 
+
+
+
+
+             
+
+        }
+
+        return "";
+
+
+
 
 
         
