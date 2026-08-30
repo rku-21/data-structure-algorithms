@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/rku-21/DSA/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rku-21/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/rku-21/DSA/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/rku-21/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2179-count-good-triplets-in-an-array](https://github.com/rku-21/DSA/tree/master/2179-count-good-triplets-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rku-21/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2363-merge-similar-items](https://github.com/rku-21/DSA/tree/master/2363-merge-similar-items) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/rku-21/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/rku-21/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2029-stone-game-ix](https://github.com/rku-21/DSA/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/rku-21/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/rku-21/DSA/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/rku-21/DSA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rku-21/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
