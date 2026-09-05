@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rku-21/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rku-21/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rku-21/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/rku-21/DSA/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rku-21/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rku-21/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rku-21/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/rku-21/DSA/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rku-21/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rku-21/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rku-21/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/rku-21/DSA/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Number Theory
 |  |
 | ------- |
