@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/rku-21/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/rku-21/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rku-21/DSA/tree/master/3904-smallest-stable-index-ii) |
+| [4020-elevator-requests-i](https://github.com/rku-21/DSA/tree/master/4020-elevator-requests-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-robot-bounded-in-circle](https://github.com/rku-21/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1260-shift-2d-grid](https://github.com/rku-21/DSA/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rku-21/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [4020-elevator-requests-i](https://github.com/rku-21/DSA/tree/master/4020-elevator-requests-i) |
 ## Segment Tree
 |  |
 | ------- |
