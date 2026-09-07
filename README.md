@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/rku-21/DSA/tree/master/0763-partition-labels) |
 | [0819-most-common-word](https://github.com/rku-21/DSA/tree/master/0819-most-common-word) |
 | [0937-reorder-data-in-log-files](https://github.com/rku-21/DSA/tree/master/0937-reorder-data-in-log-files) |
+| [0940-distinct-subsequences-ii](https://github.com/rku-21/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/rku-21/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rku-21/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1278-palindrome-partitioning-iii](https://github.com/rku-21/DSA/tree/master/1278-palindrome-partitioning-iii) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rku-21/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rku-21/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0935-knight-dialer](https://github.com/rku-21/DSA/tree/master/0935-knight-dialer) |
+| [0940-distinct-subsequences-ii](https://github.com/rku-21/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/rku-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1140-stone-game-ii](https://github.com/rku-21/DSA/tree/master/1140-stone-game-ii) |
 | [1278-palindrome-partitioning-iii](https://github.com/rku-21/DSA/tree/master/1278-palindrome-partitioning-iii) |
