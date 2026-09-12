@@ -1,81 +1,101 @@
 class Solution {
 public:
-    int n;
-    vector<int> nextIdx;
+   int n;
 
-    struct Node {
-        long long score = -1;
-        vector<int> idxs;
+   struct Node {
+        long long score=-1;
+        vector<int>idxs;
     };
+    vector<vector<Node>>dp;
 
-    vector<vector<Node>> t;
+    Node solve(auto&intervals, int idx ,int k, auto&nextIdx) {
 
-    int findNext(vector<vector<int>>& intervals, int r) {
-        int lo = 0, hi = n - 1;
-        int result = n;
-        while (lo <= hi) {
-            int mid = lo + (hi - lo) / 2;
-            if (intervals[mid][0] > r) {
-                result = mid;
-                hi = mid - 1;
-            } else {
-                lo = mid + 1;
-            }
-        }
-        return result;
-    }
+        if(k==0 || idx>=n) return Node();
 
-    Node solve(vector<vector<int>>& intervals, int i, int k) {
-        if (k == 0 || i >= n)
-            return Node();
+        if(dp[idx][k].score != -1) return dp[idx][k];
 
-        if (t[i][k].score != -1)
-            return t[i][k];
+        int weight=intervals[idx][2];
+        int originalPos=intervals[idx][3];
+        int j=nextIdx[idx];
 
-        int weight = intervals[i][2];
-        int idx    = intervals[i][3];
-        int j      = nextIdx[i];
 
-        //skip interval i
-        Node skip = solve(intervals, i + 1, k);
+        Node skip = solve(intervals, idx+1, k, nextIdx);
 
-        //take interval i
-        Node temp = solve(intervals, j, k - 1);
+        Node temp = solve(intervals, j , k-1, nextIdx);
+
         Node take;
-        take.score = temp.score + weight;
-        take.idxs  = temp.idxs;
-        take.idxs.push_back(idx);
-        sort(begin(take.idxs), end(take.idxs));
 
-        Node result;
-        if (skip.score > take.score) {
-            result = skip;
-        } else if (skip.score < take.score) {
-            result = take;
-        } else {
-            result = (skip.idxs < take.idxs) ? skip : take;
+        take.score=temp.score + weight;
+        take.idxs=temp.idxs;
+        take.idxs.push_back(originalPos);
+        sort(take.idxs.begin(), take.idxs.end());
+
+        if(skip.score > take.score) return dp[idx][k]=skip;
+
+        if(take.score > skip.score) return dp[idx][k]=take;
+
+        Node result = take.idxs > skip.idxs ? skip : take;
+
+        return dp[idx][k]=result;
+
+
+}
+
+   int findNext(auto&intervals, int endPoint, int idx){
+     int start=idx+1;
+     int end=n-1;
+     int ans=n;
+
+     while(start <=end){
+        int mid = start + (end - start)/2;
+
+        if(intervals[mid][0] >  endPoint) {
+            ans=mid;
+            end=mid-1;
+
         }
+        else start=mid+1;
 
-        return t[i][k] = result;
-    }
+     }
 
+     return ans;
+       
+      
+
+   }
+
+ 
+
+    
     vector<int> maximumWeight(vector<vector<int>>& intervals) {
-        n = intervals.size();
+        n=intervals.size();
 
-        for (int i = 0; i < n; i++)
+        for(int i=0; i<n; i++){
             intervals[i].push_back(i);
-
-        sort(intervals.begin(), intervals.end());
-
-        nextIdx.resize(n);
-        for (int i = 0; i < n; i++) {
-            int r = intervals[i][1];
-            nextIdx[i] = findNext(intervals, r);
         }
 
-        const int K = 4;
-        t.assign(n + 1, vector<Node>(K + 1));
+        sort(intervals.begin(), intervals.end(), [&](const auto&a, const auto&b){
+            return a[0] < b[0];
+        });
 
-        return solve(intervals, 0, K).idxs;
+        vector<int>nextIdx(n);
+        for(int i=0; i<n; i++){
+
+            int endpoint=intervals[i][1];
+            nextIdx[i]=findNext(intervals, endpoint, i);
+        }
+
+         dp.assign(n+1, vector<Node>(5));
+
+        return solve(intervals, 0, 4,nextIdx).idxs;
+
+
+
+
+
+
+
+
+        
     }
 };
