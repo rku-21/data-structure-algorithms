@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/rku-21/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/rku-21/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rku-21/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/rku-21/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/rku-21/DSA/tree/master/0877-stone-game) |
 | [0957-prison-cells-after-n-days](https://github.com/rku-21/DSA/tree/master/0957-prison-cells-after-n-days) |
 | [1041-robot-bounded-in-circle](https://github.com/rku-21/DSA/tree/master/1041-robot-bounded-in-circle) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/rku-21/DSA/tree/master/0836-rectangle-overlap) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rku-21/DSA/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Game Theory
 |  |
