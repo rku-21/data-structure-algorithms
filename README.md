@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/rku-21/DSA/tree/master/0819-most-common-word) |
 | [0957-prison-cells-after-n-days](https://github.com/rku-21/DSA/tree/master/0957-prison-cells-after-n-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/rku-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
+| [1096-brace-expansion-ii](https://github.com/rku-21/DSA/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/rku-21/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/rku-21/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rku-21/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/rku-21/DSA/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rku-21/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/rku-21/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rku-21/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/rku-21/DSA/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/rku-21/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rku-21/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/rku-21/DSA/tree/master/1096-brace-expansion-ii) |
 | [3676-count-bowl-subarrays](https://github.com/rku-21/DSA/tree/master/3676-count-bowl-subarrays) |
 ## Monotonic Stack
 |  |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/rku-21/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rku-21/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0937-reorder-data-in-log-files](https://github.com/rku-21/DSA/tree/master/0937-reorder-data-in-log-files) |
+| [1096-brace-expansion-ii](https://github.com/rku-21/DSA/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/rku-21/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/rku-21/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/rku-21/DSA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/rku-21/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/rku-21/DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rku-21/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/rku-21/DSA/tree/master/1096-brace-expansion-ii) |
 | [1278-palindrome-partitioning-iii](https://github.com/rku-21/DSA/tree/master/1278-palindrome-partitioning-iii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rku-21/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rku-21/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -670,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/rku-21/DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rku-21/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
