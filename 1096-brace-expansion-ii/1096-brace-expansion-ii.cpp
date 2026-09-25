@@ -40,7 +40,7 @@ public:
 
     set<string> doUnion(){
         set<string> res;
-        while(true){
+        while(idx <n){
 
             auto st= doConcate();
             res.insert(st.begin(), st.end());
