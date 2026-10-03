@@ -1,112 +1,115 @@
 class LRUCache {
 public:
     struct dll {
-        int val;
-        dll* next;
         dll* prev;
+        dll* next;
+        int val;
         int key;
 
-        dll(int val,int key){
-            this->val=val;
-            this->next=nullptr;
-            this->prev=nullptr;
-            this->key=key;
+        dll(int val, int key) :val(val), key(key) , next(nullptr), prev(nullptr) {};
 
-        }
     };
-    int capacity;
-
-    unordered_map<int,dll*>mp;
-    dll* head=nullptr;
-    dll* tail=nullptr;
     
-    LRUCache(int capacity) {
-        this->capacity=capacity;
-        
-    }
+    int capacity;
+    unordered_map<int,dll*>mp;
 
-    void movetoFront(dll* node){
-        if(node==head) return;
-        dll* previous=node->prev;
-        dll* Next=node->next;
-        if(node==tail){
-            tail=previous;
+    dll* head=nullptr;
+    dll* rear =nullptr;
+
+    LRUCache(int capacity) : capacity(capacity) {};
+
+    void moveToFront(dll* recent ,dll* back, dll* ahead){
+        if(head == recent) return;
+
+        if(recent == rear){
+            rear = back;
         }
-        node->prev=nullptr;
-        node->next=head;
-        head->prev=node;
-        if(previous) previous->next=Next;
-        if(Next) Next->prev=previous;
 
-        head=node;
+        if(back) back->next = ahead;
+        if(ahead) ahead->prev = back;
+        recent -> prev = nullptr;
+        recent->next = head;
+        if(head) head->prev=recent;
+        head = recent;
+
+
+
+
     }
+        
+    
     
     int get(int key) {
-
         if(!mp.count(key)) return -1;
 
-        dll* node=mp[key];
-
-        movetoFront(node);
-        mp[key]=head;
-
-        return head->val;
-
+        // move to front 
+        dll* recent = mp[key];
+        dll* back = recent->prev;
+        dll* ahead = recent->next;
+        moveToFront(recent, back, ahead);
 
         
+
+        return mp[key]->val;
     }
     
     void put(int key, int value) {
 
         if(head==nullptr){
-            head=new dll(value,key);
-            tail=head;
-            mp[key]=head;
+            dll* node =new dll(value, key);
+            mp[key]=node;
+            head=node;
+            rear=node;
+           
+            return;
         }
+
+        else if (mp.count(key)) {
+             // alredy existing so update 
+
+            dll* recent = mp[key];
+            dll* back = recent->prev;
+            dll* ahead = recent->next;
+
+            recent->val=value;
+            mp[key]=recent;
+
+            moveToFront(recent, back, ahead);
+        }
+
         else {
-            if(mp.count(key)){
-                // update
+            // not existing so insert 
 
-                dll* node=mp[key];
+            if(mp.size()==capacity){
+                dll* temp=rear;
+                if(head == rear){
+                    head= nullptr;
+                    rear =nullptr;
+                }
+                else {
+                   rear = rear->prev;
+                   rear->next=nullptr;
+                }
+                mp.erase(temp->key);
+                delete temp;
 
-                movetoFront(node);
-                mp[key]=head;
-                head->val=value;
+
+
+            }
+            dll* node =new dll(value, key);
+            if(head == nullptr){
+                head=node;
+                rear=node;
             }
             else {
-                //insert 
-
-                if(mp.size()==capacity){
-                    dll* temp=tail;
-
-                    if(head==tail){
-                        head=nullptr;
-                        tail=nullptr;
-                    }
-                    else {
-                        tail=tail->prev;
-                        tail->next=nullptr;
-                    }
-                    mp.erase(temp->key);
-                    delete temp;
-                }
-
-                dll* newnode=new dll(value,key);
-               if(head==nullptr){
-                   head=newnode;
-                   tail=newnode;
-
-               }
-               else {
-                    newnode->next=head;
-                    head->prev=newnode;
-                    head=newnode;
-                    
-               }
-               mp[key]=head;
+                node->next=head;
+                head->prev=node;
+                head = node;
             }
-        }
-    }
+            mp[key]=head;
+           
+      }
+      }
 };
 
 /**
