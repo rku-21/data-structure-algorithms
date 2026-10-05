@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rku-21/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/rku-21/DSA/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/rku-21/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/rku-21/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/rku-21/DSA/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rku-21/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/rku-21/DSA/tree/master/1096-brace-expansion-ii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/rku-21/DSA/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rku-21/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/rku-21/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/rku-21/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/rku-21/DSA/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rku-21/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/rku-21/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rku-21/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rku-21/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0472-concatenated-words](https://github.com/rku-21/DSA/tree/master/0472-concatenated-words) |
+| [0678-valid-parenthesis-string](https://github.com/rku-21/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/rku-21/DSA/tree/master/0763-partition-labels) |
 | [0819-most-common-word](https://github.com/rku-21/DSA/tree/master/0819-most-common-word) |
 | [0856-score-of-parentheses](https://github.com/rku-21/DSA/tree/master/0856-score-of-parentheses) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/rku-21/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0472-concatenated-words](https://github.com/rku-21/DSA/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/rku-21/DSA/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/rku-21/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/rku-21/DSA/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0877-stone-game](https://github.com/rku-21/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rku-21/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -722,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rku-21/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rku-21/DSA/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/rku-21/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/rku-21/DSA/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rku-21/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rku-21/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
