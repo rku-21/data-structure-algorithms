@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rku-21/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2501-longest-square-streak-in-an-array](https://github.com/rku-21/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/rku-21/DSA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rku-21/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2848-points-that-intersect-with-cars](https://github.com/rku-21/DSA/tree/master/2848-points-that-intersect-with-cars) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/rku-21/DSA/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rku-21/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/rku-21/DSA/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rku-21/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/rku-21/DSA/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rku-21/DSA/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rku-21/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
