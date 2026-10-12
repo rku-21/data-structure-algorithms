@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rku-21/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2501-longest-square-streak-in-an-array](https://github.com/rku-21/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2848-points-that-intersect-with-cars](https://github.com/rku-21/DSA/tree/master/2848-points-that-intersect-with-cars) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rku-21/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rku-21/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rku-21/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rku-21/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/rku-21/DSA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rku-21/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2848-points-that-intersect-with-cars](https://github.com/rku-21/DSA/tree/master/2848-points-that-intersect-with-cars) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rku-21/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/rku-21/DSA/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rku-21/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rku-21/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/rku-21/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1720-decode-xored-array](https://github.com/rku-21/DSA/tree/master/1720-decode-xored-array) |
 | [2401-longest-nice-subarray](https://github.com/rku-21/DSA/tree/master/2401-longest-nice-subarray) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rku-21/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rku-21/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rku-21/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rku-21/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/rku-21/DSA/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rku-21/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/rku-21/DSA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rku-21/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rku-21/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rku-21/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rku-21/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
