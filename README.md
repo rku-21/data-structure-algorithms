@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rku-21/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2501-longest-square-streak-in-an-array](https://github.com/rku-21/DSA/tree/master/2501-longest-square-streak-in-an-array) |
 | [2848-points-that-intersect-with-cars](https://github.com/rku-21/DSA/tree/master/2848-points-that-intersect-with-cars) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/rku-21/DSA/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rku-21/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rku-21/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rku-21/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/rku-21/DSA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rku-21/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2848-points-that-intersect-with-cars](https://github.com/rku-21/DSA/tree/master/2848-points-that-intersect-with-cars) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/rku-21/DSA/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rku-21/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rku-21/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/rku-21/DSA/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rku-21/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2401-longest-nice-subarray](https://github.com/rku-21/DSA/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rku-21/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/rku-21/DSA/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rku-21/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rku-21/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rku-21/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/rku-21/DSA/tree/master/1872-stone-game-viii) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/rku-21/DSA/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2848-points-that-intersect-with-cars](https://github.com/rku-21/DSA/tree/master/2848-points-that-intersect-with-cars) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/rku-21/DSA/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rku-21/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rku-21/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/rku-21/DSA/tree/master/3903-smallest-stable-index-i) |
