@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/rku-21/DSA/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rku-21/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/rku-21/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rku-21/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rku-21/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1720-decode-xored-array](https://github.com/rku-21/DSA/tree/master/1720-decode-xored-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rku-21/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rku-21/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rku-21/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/rku-21/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rku-21/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/rku-21/DSA/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rku-21/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/rku-21/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rku-21/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rku-21/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/rku-21/DSA/tree/master/1872-stone-game-viii) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/rku-21/DSA/tree/master/2222-number-of-ways-to-select-buildings) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rku-21/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rku-21/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/rku-21/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rku-21/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rku-21/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/rku-21/DSA/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rku-21/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -585,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rku-21/DSA/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/rku-21/DSA/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rku-21/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rku-21/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2179-count-good-triplets-in-an-array](https://github.com/rku-21/DSA/tree/master/2179-count-good-triplets-in-an-array) |
 ## Recursion
 |  |
@@ -603,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/rku-21/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rku-21/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/rku-21/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rku-21/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rku-21/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -611,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/rku-21/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rku-21/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/rku-21/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rku-21/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rku-21/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
 |  |
@@ -662,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rku-21/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rku-21/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rku-21/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rku-21/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -749,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/rku-21/DSA/tree/master/0096-unique-binary-search-trees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rku-21/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -792,4 +801,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1114-print-in-order](https://github.com/rku-21/DSA/tree/master/1114-print-in-order) |
 | [1195-fizz-buzz-multithreaded](https://github.com/rku-21/DSA/tree/master/1195-fizz-buzz-multithreaded) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rku-21/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rku-21/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
