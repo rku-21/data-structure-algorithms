@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rku-21/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rku-21/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/rku-21/DSA/tree/master/2222-number-of-ways-to-select-buildings) |
+| [2409-count-days-spent-together](https://github.com/rku-21/DSA/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rku-21/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rku-21/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/rku-21/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/rku-21/DSA/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rku-21/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/rku-21/DSA/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/rku-21/DSA/tree/master/2409-count-days-spent-together) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/rku-21/DSA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rku-21/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rku-21/DSA/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
