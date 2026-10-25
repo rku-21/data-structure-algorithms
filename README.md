@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rku-21/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/rku-21/DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/rku-21/DSA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/rku-21/DSA/tree/master/0056-merge-intervals) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rku-21/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rku-21/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0137-single-number-ii](https://github.com/rku-21/DSA/tree/master/0137-single-number-ii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/rku-21/DSA/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/rku-21/DSA/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/rku-21/DSA/tree/master/0414-third-maximum-number) |
 | [0472-concatenated-words](https://github.com/rku-21/DSA/tree/master/0472-concatenated-words) |
@@ -819,4 +821,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rku-21/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/rku-21/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
