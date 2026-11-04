@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/rku-21/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/rku-21/DSA/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rku-21/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/rku-21/DSA/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rku-21/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rku-21/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rku-21/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2222-number-of-ways-to-select-buildings](https://github.com/rku-21/DSA/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2848-points-that-intersect-with-cars](https://github.com/rku-21/DSA/tree/master/2848-points-that-intersect-with-cars) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/rku-21/DSA/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/rku-21/DSA/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rku-21/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rku-21/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/rku-21/DSA/tree/master/3903-smallest-stable-index-i) |
