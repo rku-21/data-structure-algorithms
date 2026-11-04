@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/rku-21/DSA/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/rku-21/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0729-my-calendar-i](https://github.com/rku-21/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rku-21/DSA/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/rku-21/DSA/tree/master/0732-my-calendar-iii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rku-21/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/rku-21/DSA/tree/master/0295-find-median-from-data-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rku-21/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rku-21/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rku-21/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/rku-21/DSA/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/rku-21/DSA/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/rku-21/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0414-third-maximum-number](https://github.com/rku-21/DSA/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rku-21/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/rku-21/DSA/tree/master/0472-concatenated-words) |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/rku-21/DSA/tree/master/0143-reorder-list) |
+| [0295-find-median-from-data-stream](https://github.com/rku-21/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rku-21/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/rku-21/DSA/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/rku-21/DSA/tree/master/0763-partition-labels) |
@@ -850,4 +854,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/rku-21/DSA/tree/master/0056-merge-intervals) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/rku-21/DSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
